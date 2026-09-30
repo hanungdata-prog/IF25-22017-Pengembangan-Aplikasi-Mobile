@@ -4,7 +4,7 @@
 **NIM:** 124140207
 **Kelas PAM :** RA
 
-Aplikasi menampilkan Phone, Email, Location, dan platform yang digunakan.
+Aplikasi menampilkan foto profil, nama, NIM, kelas, nomor HP, lokasi, dan email.
 
 ## Screenshot Aplikasi
-![Logo Projek](hanung.png)
+![Screenshot aplikasi di Android](screenshot-android.png)
