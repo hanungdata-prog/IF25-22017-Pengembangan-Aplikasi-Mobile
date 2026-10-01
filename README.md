@@ -78,22 +78,22 @@ Intro KMP, Setup Environment, Hello World; Advanced Kotlin (Coroutines, Flow); C
 
 ### Materi inti (sesuai Jadwal Mingguan RPS di atas)
 
-- `P1 - Pengenalan MK dan Setup Environment.pdf`, `P2 - Advanced Kotlin Coroutines Flow.pdf`, `P3 - Compose Multiplatform Basics.pdf`, `P4 - State Management MVVM.pdf` — slide materi per pertemuan (baru tersedia untuk Pertemuan 1-4; Pertemuan 5-11 belum ada slide, hands-on-nya diturunkan langsung dari RPS).
-- `P{n} - {Topik} - Hands-on/` — proyek **Kotlin Multiplatform + Compose Multiplatform** nyata (modul `composeApp` dengan `commonMain`/`androidMain`/`iosMain`/`desktopMain`, 3 latihan + solusi per pertemuan) untuk tiap pertemuan inti:
+- `PDF/P1 - Pengenalan MK dan Setup Environment.pdf`, `PDF/P2 - Advanced Kotlin Coroutines Flow.pdf`, `PDF/P3 - Compose Multiplatform Basics.pdf`, `PDF/P4 - State Management MVVM.pdf` — slide materi per pertemuan (baru tersedia untuk Pertemuan 1-4; Pertemuan 5-11 belum ada slide, hands-on-nya diturunkan langsung dari RPS).
+- `HANDSON/P{n} - {Topik} - Hands-on/` — proyek **Kotlin Multiplatform + Compose Multiplatform** nyata (modul `composeApp` dengan `commonMain`/`androidMain`/`iosMain`/`desktopMain`, 3 latihan + solusi per pertemuan) untuk tiap pertemuan inti:
 
   | Folder | Pertemuan | Topik |
   |---|---|---|
-  | `P1 - Pengenalan MK dan Setup Environment - Hands-on/` | 1 | Intro KMP, Setup Environment, expect/actual, Compose dasar |
-  | `P2 - Advanced Kotlin Coroutines Flow - Hands-on/` | 2 | Advanced Kotlin, Coroutines & Flow (proyek Kotlin/JVM biasa) |
-  | `P3 - Compose Multiplatform Basics - Hands-on/` | 3 | Compose Multiplatform Basics (layout, LazyColumn, custom component) |
-  | `P4 - State Management MVVM - Hands-on/` | 4 | State Management MVVM (ViewModel, StateFlow, UDF) |
-  | `P5 - Navigasi Antar Layar - Hands-on/` | 5 | Navigasi Antar Layar, Passing Data (NavHost, Bottom Navigation) |
-  | `P6 - Networking REST API - Hands-on/` | 6 | Networking (Ktor Client, JSON, Repository Pattern) |
-  | `P7 - Local Data Storage - Hands-on/` | 7 | Local Data Persistence (SQLDelight, offline-first) |
+  | `HANDSON/P1 - Pengenalan MK dan Setup Environment - Hands-on/` | 1 | Intro KMP, Setup Environment, expect/actual, Compose dasar |
+  | `HANDSON/P2 - Advanced Kotlin Coroutines Flow - Hands-on/` | 2 | Advanced Kotlin, Coroutines & Flow (proyek Kotlin/JVM biasa) |
+  | `HANDSON/P3 - Compose Multiplatform Basics - Hands-on/` | 3 | Compose Multiplatform Basics (layout, LazyColumn, custom component) |
+  | `HANDSON/P4 - State Management MVVM - Hands-on/` | 4 | State Management MVVM (ViewModel, StateFlow, UDF) |
+  | `HANDSON/P5 - Navigasi Antar Layar - Hands-on/` | 5 | Navigasi Antar Layar, Passing Data (NavHost, Bottom Navigation) |
+  | `HANDSON/P6 - Networking REST API - Hands-on/` | 6 | Networking (Ktor Client, JSON, Repository Pattern) |
+  | `HANDSON/P7 - Local Data Storage - Hands-on/` | 7 | Local Data Persistence (SQLDelight, offline-first) |
   | *(Pertemuan 8 = UTS, tidak ada hands-on)* | 8 | — |
-  | `P9 - Platform Specific Features - Hands-on/` | 9 | Platform Specific Code (expect/actual lanjutan, Koin DI) |
-  | `P10 - Integrasi AI API - Hands-on/` | 10 | Integrasi Sistem Cerdas (AI API — Gemini) |
-  | `P11 - Testing dan DI - Hands-on/` | 11 | Testing dan Dependency Injection |
+  | `HANDSON/P9 - Platform Specific Features - Hands-on/` | 9 | Platform Specific Code (expect/actual lanjutan, Koin DI) |
+  | `HANDSON/P10 - Integrasi AI API - Hands-on/` | 10 | Integrasi Sistem Cerdas (AI API — Gemini) |
+  | `HANDSON/P11 - Testing dan DI - Hands-on/` | 11 | Testing dan Dependency Injection |
   | *(Pertemuan 12-15 = pengembangan proyek akhir, 16 = UAS, tidak ada hands-on materi baru)* | 12-16 | — |
 
   Catatan: proyek `P1, P3-P7, P9-P11` tidak menyertakan folder `iosApp/` (proyek Xcode) — lihat README masing-masing folder untuk cara menambahkannya via [kmp.jetbrains.com](https://kmp.jetbrains.com). Belum di-build/verify penuh (tidak ada Android SDK/Xcode di lingkungan pembuatannya) — lakukan Gradle sync di Android Studio sebelum dipakai di kelas.
@@ -106,4 +106,4 @@ Intro KMP, Setup Environment, Hello World; Advanced Kotlin (Coroutines, Flow); C
 
 ### Lainnya
 
-- `RPS_MK_IF25-22017.pdf` — Rencana Pembelajaran Semester lengkap (sumber data untuk bagian-bagian di atas).
+- `PDF/RPS_MK_IF25-22017.pdf` — Rencana Pembelajaran Semester lengkap (sumber data untuk bagian-bagian di atas).
