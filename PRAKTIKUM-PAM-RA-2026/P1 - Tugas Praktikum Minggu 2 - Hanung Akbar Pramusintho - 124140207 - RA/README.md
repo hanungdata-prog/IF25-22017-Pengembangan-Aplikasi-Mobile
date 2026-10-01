@@ -1,0 +1,11 @@
+# Tugas 1 PAM - Kotlin Multiplatform
+
+**Nama:** Hanung Akbar Pramusintho
+**NIM:** 124140207
+**Kelas PAM :** RA
+
+Aplikasi menampilkan nama, NIM, dan platform yang digunakan.
+
+## Screenshot Aplikasi
+
+<img src="foto_1.png" width="300">
