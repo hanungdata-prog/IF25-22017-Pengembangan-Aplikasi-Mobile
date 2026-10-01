@@ -16,12 +16,12 @@ Aplikasi ini lanjutan dari Profile App minggu 3. Bedanya sekarang datanya diatur
 
 1. Halaman profile
 
-![Halaman profile](screenshot-profile.png)
+<img src="screenshot-profile.png" width="260">
 
 2. Form edit profile
 
-![Form edit profile](screenshot-edit.png)
+<img src="screenshot-edit.png" width="260">
 
 3. Dark mode aktif
 
-![Dark mode aktif](screenshot-darkmode.png)
+<img src="screenshot-darkmode.png" width="260">
