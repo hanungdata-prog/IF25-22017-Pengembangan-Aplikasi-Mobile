@@ -25,23 +25,3 @@ Aplikasi ini lanjutan dari Profile App minggu 3. Bedanya sekarang datanya diatur
 3. Dark mode aktif
 
 ![Dark mode aktif](screenshot-darkmode.png)
-
-## Struktur folder
-
-```
-composeApp
-  src
-    commonMain
-      kotlin
-        com.itera.pam.myprofile
-          data          -> Profile.kt, ProfileRepository.kt
-          viewmodel     -> ProfileUiState.kt, ProfileViewModel.kt
-          ui            -> ProfileScreen.kt, EditProfileScreen.kt, theme, components
-          App.kt
-        composeResources
-          drawable      -> hanung.png
-```
-
-## Cara menjalankan
-
-Buka folder ini di Android Studio, tunggu Gradle sync selesai, lalu pilih configuration composeApp dan jalankan di emulator atau device Android.
